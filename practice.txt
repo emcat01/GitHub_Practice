@@ -1,2 +1,3 @@
 Hello, this file is to track changes to git repo.
+I am changing more,I made a second error
 Oops, I made an error.
