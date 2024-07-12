@@ -1,2 +1,2 @@
 Hello, this file is to track changes to git repo.
-Oops, I made an error.
+What does reset do? Now I am making edits.
